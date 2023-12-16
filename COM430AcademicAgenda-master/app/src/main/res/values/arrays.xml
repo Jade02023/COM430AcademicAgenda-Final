@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="security_questions">
+        <item>What is your mother\'s maiden name?</item>
+        <item>What is the name of your first pet?</item>
+        <item>What is the name of the street you grew up on?</item>
+        <item>What is the name of your favorite movie?</item>
+        <item>What is the name of your favorite vacation spot?</item>
+        <item>What is the name of your favorite book?</item>
+        <item>What is the name of your favorite musical artist?</item>
+    </string-array>
+</resources>
